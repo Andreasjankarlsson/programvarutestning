@@ -1,0 +1,2 @@
+module labb4 {
+}
